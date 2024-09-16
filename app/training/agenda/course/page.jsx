@@ -261,7 +261,7 @@ const Course = () => {
                 <div class="card p-5 d-flex flex-row gap-5 border-0 bg-primary">
                     <div class="align-self-center">
                         <h5 class="fs-1 mb-4 text-start text-light">Request Private In-House</h5>
-                        <p class="text-white-50">Experience customized training sessions designed exclusively for your team. Tailor the content to fit your company's specific needs and schedule.</p>
+                        <p class="text-white-50">Experience customized training sessions designed exclusively for your team. Tailor the content to fit your company is specific needs and schedule.</p>
                     </div>
                     <button type="button" class="btn btn-light btn-lg w-50 align-self-center">Contact Us</button>
                 </div>
